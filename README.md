@@ -9,6 +9,8 @@ I'm currently a senior robotics system engineer at [Mujin, Inc.](https://mujin-c
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img alt="emacs" src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white"/>
+  <img alt="musescore" src="https://img.shields.io/badge/-MuseScore-1A70B8?style=flat-square&logo=musescore&logoColor=white"/>
+  <img alt="musescore" src="https://img.shields.io/badge/-InkScape-000000?style=flat-square&logo=inkscape&logoColor=white"/>
 </p>
 
 **Where to Find Me**
