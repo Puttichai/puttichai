@@ -13,14 +13,18 @@ I'm currently a senior robotics system engineer at [Mujin, Inc.](https://mujin-c
   <img alt="musescore" src="https://img.shields.io/badge/-InkScape-000000?style=flat-square&logo=inkscape&logoColor=white"/>
 </p>
 
+**Currently Learning**
+<p>
+  <img alt="go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
+
 **Where to Find Me**
 <p>
-  <a href="https://github.com/Puttichai" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/petchpl" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <!-- somehow I need to remove all whitespaces within `a` tags to suppress Github's default link underlining (see https://stackoverflow.com/questions/77658005/a-blue-line-under-badges-in-readme-github-overview) -->
+  <a href="https://github.com/Puttichai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Puttichai-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/petchpl" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/petchpl-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCN1Y9o8eIh0e7Hv0sOdfpgQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/@petchiputti-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white"></a>
 </p>
 
 <!--
