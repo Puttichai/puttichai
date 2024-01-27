@@ -15,8 +15,7 @@ I'm currently a senior robotics system engineer at [Mujin, Inc.](https://mujin-c
 
 **Currently Learning**
 <p>
-  <img alt="go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
 **Where to Find Me**
